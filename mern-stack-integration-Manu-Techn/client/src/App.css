@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: white;
+}
+
+h1 {
+    color: darkslategray;
+}
+
+.connection-status {
+    color: green;
+    font-weight: bold;
+}
+
+.error-status {
+    color: red;
+    font-weight: bold;
+}
